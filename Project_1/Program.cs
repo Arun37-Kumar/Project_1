@@ -14,6 +14,7 @@ namespace Project_1
             Console.WriteLine(a);
             Console.ReadLine();
             Human.Work();
+            palindrome.Pal();
             Console.ReadLine();
         }
     }
