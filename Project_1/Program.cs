@@ -10,7 +10,7 @@ namespace Project_1
     {
         static void Main(string[] args)
         {
-           int a = Reverse.FindReverse();
+            int a = Reverse.FindReverse();
             Console.WriteLine(a);
             Console.ReadLine();
             Human.Work();
